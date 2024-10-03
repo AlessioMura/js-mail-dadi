@@ -1,4 +1,4 @@
-const email_list = []
+const email_list = ['exmpl@mail.com', 'exmpl2@mail.com', 'exmpl3@gmail.com']
 
 let user_email = prompt('Typre your email')
 
